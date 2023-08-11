@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 =======
-function sub(int a, int b)
+function add(int a, int b)
 {
-	return a-b;
+	return a+b;
 } 
 >>>>>>> 4311edb05d0e42c882c127df13aed4067c07e6de
